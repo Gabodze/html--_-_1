@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter-Regular-400.ttf);
+}
+
+body{
+    width: 1340px;
+    height: 782px;
+    top: -403px;
+    left: -548px;
+    background-color: #D9D9D9;
+    font-family: 'Inter';
+}
